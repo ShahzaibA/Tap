@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ball Tap</string>
+    <string name="app_title">Tap!</string>
+    <string name="title_activity_finished">Finished</string>
+    <string name="game_over">Game Over</string>
+    <string name="final_score">Score:</string>
+
+
+</resources>
